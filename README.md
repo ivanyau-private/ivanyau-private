@@ -4,9 +4,8 @@ Currently Learning Golang and neovim, working with ruby on rails......
 
 My dream is get a job in sillicon valley. I will get there soon 🛫 
 
-def my_status
-  life = code + learn + sport
-end
+
+ my_life = code + learn + sport
 
 <!---
 ivanyau-private/ivanyau-private is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
