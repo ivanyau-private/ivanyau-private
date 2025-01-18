@@ -7,7 +7,6 @@ My life equation is simple: code + learn + sport. Whether I'm cracking code, pic
 
 Catch you later, digital world! I'm turning my dreams into code and my code into reality. 🚀💻
 
----> Generate by GPT
 <!---
 ivanyau-private/ivanyau-private is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
