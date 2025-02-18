@@ -1,5 +1,5 @@
 
-Hey there! 👋 I'm Ivan Yau, a Software Engineer from Hong Kong who's head over heels for coding. Right now, I'm diving into Golang and neovim, while also rocking it with ruby on rails.
+Hey there! 👋 I'm Ivan Yau, a Software Engineer working in Toronto who's head over heels for coding. Right now, I'm diving into Golang and Neovim, while also rocking it with Ruby on Rails.
 
 Guess what? My sights are set on Silicon Valley – I'm packing my ambitions and hopping on a plane to tech paradise! 🛫
 
